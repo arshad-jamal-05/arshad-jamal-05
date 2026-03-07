@@ -1,4 +1,4 @@
-##👋 Welcome to my GitHub profile! I'm <b>Arshad Jamal</b>, a passionate developer:<br><br>• 🚀 MERN Stack Web Developer (MongoDB, Express, React, Node.js)<br>• 💻 Skilled in JavaScript, HTML, CSS & Modern Web Technologies<br>• 🧠 Strong interest in Full Stack Development<br>• 📚 Continuous Learner & Tech Enthusiast<br>• 🛠️ Passionate about building modern web applications<br>• 🤝 Open to collaboration on exciting projects<br>• 💡 Problem Solver & Creative Thinker<br><br>Feel free to connect with me and check out my projects! 
+## 👋 Welcome to my GitHub profile! I'm <b>Arshad Jamal</b>, a passionate developer:<br><br>• 🚀 MERN Stack Web Developer (MongoDB, Express, React, Node.js)<br>• 💻 Skilled in JavaScript, HTML, CSS & Modern Web Technologies<br>• 🧠 Strong interest in Full Stack Development<br>• 📚 Continuous Learner & Tech Enthusiast<br>• 🛠️ Passionate about building modern web applications<br>• 🤝 Open to collaboration on exciting projects<br>• 💡 Problem Solver & Creative Thinker<br><br>Feel free to connect with me and check out my projects! 
 
 
 ## 🌐 Socials:
